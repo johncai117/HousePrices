@@ -1,2 +1,2 @@
 # House Prices
-Refreshing my Regression Techniques with Kaggle House Prices dataset
+Testing out Regression and Gradient-Boosting Techniques with Kaggle House Prices dataset
